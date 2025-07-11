@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+:root {
+	--col-main: #003454;
+	--col-link: #007ecc;
+}
+
+html {
+	font-family: "Quicksand", sans-serif;
+}
+
+a, a:visited { color: inherit; text-decoration: inherit; }
